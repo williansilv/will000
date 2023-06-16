@@ -1,0 +1,27 @@
+body {
+    background-image: url() ;
+    background-position: fixed;
+    background-size: cover;
+}
+
+a {
+    float: right;
+    padding: 7px;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    border: 2px solid #fff;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    background-color: gray
+    color black;
+    transform: scale(1.2);
+
+}
+span {
+    color: gray;
+    font-size: 20px;
+}
